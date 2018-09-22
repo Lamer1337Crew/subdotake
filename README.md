@@ -8,4 +8,7 @@ SubDomain TakeOver Scanner by <a href=fb.com/irfanarekporjo>VanGans</a>
 -t => thread  <br>
 <hr/>
 
-contoh : Python takeover.py -d example.com -w wordlist.txt -t 20
+usage :
+
+┌─[van@parrot]─[~]
+└──╼ $python takeover.py -d example.com -w wordlist.txt -t 20
